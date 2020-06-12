@@ -1,0 +1,11 @@
+C:\Users\ac95040\source\repos\Warmup\Warmup\bin\Debug\Database1.mdf
+C:\Users\ac95040\source\repos\Warmup\Warmup\bin\Debug\Database1_log.ldf
+C:\Users\ac95040\source\repos\Warmup\Warmup\bin\Debug\Warmup.exe.config
+C:\Users\ac95040\source\repos\Warmup\Warmup\bin\Debug\Warmup.exe
+C:\Users\ac95040\source\repos\Warmup\Warmup\bin\Debug\Warmup.pdb
+C:\Users\ac95040\source\repos\Warmup\Warmup\obj\Debug\Warmup.csprojAssemblyReference.cache
+C:\Users\ac95040\source\repos\Warmup\Warmup\obj\Debug\Warmup.Form1.resources
+C:\Users\ac95040\source\repos\Warmup\Warmup\obj\Debug\Warmup.Properties.Resources.resources
+C:\Users\ac95040\source\repos\Warmup\Warmup\obj\Debug\Warmup.csproj.GenerateResource.cache
+C:\Users\ac95040\source\repos\Warmup\Warmup\obj\Debug\Warmup.exe
+C:\Users\ac95040\source\repos\Warmup\Warmup\obj\Debug\Warmup.pdb
